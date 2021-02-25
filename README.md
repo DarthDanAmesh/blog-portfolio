@@ -1,6 +1,4 @@
 # blog-portfolio
-If you want to check out the live version of the blog, check the github pages webstite: [blog-portfolio](https://darthdanamesh.github.io/blog-portfolio/)
-
 A Django blog and portfolio application
 
 This is Django project uses Bootstrap 4. I used the Django Central Tutorial as reference for developing the blog. 

@@ -1,4 +1,5 @@
 # blog-portfolio
+If you want to check out the live version of the blog, check the github pages webstite: [blog-portfolio](https://darthdanamesh.github.io/blog-portfolio/)
 
 A Django blog and portfolio application
 

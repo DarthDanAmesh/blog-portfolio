@@ -8,6 +8,7 @@ I recommend you follow their tutorials for django beginners (https://djangocentr
 I also added other functionality which include:
 
 1. Pagination
+
 [Screenshot_2022-01-26_09_47_22](https://user-images.githubusercontent.com/18099733/151188344-e9dcc391-8c91-4e3a-9185-793c8eded825.png)
 
 

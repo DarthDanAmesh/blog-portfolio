@@ -8,8 +8,12 @@ I recommend you follow their tutorials for django beginners (https://djangocentr
 I also added other functionality which include:
 
 1. Pagination
+[Screenshot_2022-01-26_09_47_22](https://user-images.githubusercontent.com/18099733/151188344-e9dcc391-8c91-4e3a-9185-793c8eded825.png)
 
-2. Integrated Summernote WYSIWYG Editor in Django - For the Admin
+
+2. Integrated Summernote WYSIWYG Editor in Django - For the Admin!
+
+![Screenshot_2022-01-26_09_48_35](https://user-images.githubusercontent.com/18099733/151188553-10f15019-a6da-4cf5-9cf4-dcd97eaee520.png)
 
 Thanks and enjoy, 
 
